@@ -1,0 +1,17 @@
+{
+  "name": "calendario-recuperacion",
+  "version": "1.0.0",
+  "description": "Calendario médico para cuidados post-operatorios cardiacos",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'Build complete'",
+    "start": "serve ."
+  },
+  "keywords": ["medical", "calendar", "healthcare", "recovery"],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
